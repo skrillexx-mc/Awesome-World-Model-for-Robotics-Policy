@@ -2,7 +2,6 @@
 
 A curated list of papers, code, and resources on world models for robotic policy learning.
 
-## World Model as Policy（Video-Generation / Image-Generation）
 
 ## Table of Contents
 - [World Model as Policy ](#world-models-as-policy)
