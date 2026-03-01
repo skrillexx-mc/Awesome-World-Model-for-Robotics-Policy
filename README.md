@@ -4,8 +4,8 @@ A curated list of papers, code, and resources on world models for robotic policy
 
 
 ## Table of Contents
-- [World Model as Policy ](#world-models-as-policy)
-- [World Model as Simulator ](#world-models-as-simulator)
+- [World Model for Policy ](#world-models-as-policy)
+- [World Model for RL and Simulation ](#world-models-as-simulator)
 - [World Model for Video Generation](#world-models-for-gen)
 - [Benchmarks for Evaluation World-Model](#benchmarks-for-evaluation-world-model)
 - [Datasets](#datasets)
