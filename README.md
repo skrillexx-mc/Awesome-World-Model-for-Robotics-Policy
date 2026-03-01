@@ -200,7 +200,7 @@ A curated list of papers, code, and resources on world models for robotic policy
    [![arXiv](https://img.shields.io/badge/arXiv-2507.18867-b31b1b.svg)](https://arxiv.org/abs/2507.18867)
 
 - **[arXiv'25.09] WoW** — *WoW: Towards a World-omniscient World-model Through Embodied Interaction*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2509.22642-b31b1b.svg)](https://arxiv.org/abs/2509.22642)
+   [![arXiv](https://img.shields.io/badge/arXiv-2509.22642-b31b1b.svg)](https://arxiv.org/abs/2509.22642) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/wow-world-model/wow-world-model)
 
 - **[Tech Release'25.09] UnifoLM-WMA-0** — *UnifoLM-WMA-0: A World-Model-Action Framework for General-Purpose Robot Learning*  
    [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/unitreerobotics/unifolm-world-model-action)     [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://unigen-x.github.io/unifolm-world-model-action.github.io/)
@@ -209,10 +209,11 @@ A curated list of papers, code, and resources on world models for robotic policy
    [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/nvidia-cosmos/cosmos-predict2.5)     [![Website](https://img.shields.io/badge/Website-NVIDIA-76B900.svg)](https://research.nvidia.com/labs/dir/cosmos-predict2.5/)
 
 - **[ICLR'26] RoboMaster** — *Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control*  
-   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=OeDwYtp8n1)
+   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=OeDwYtp8n1) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/KlingAIResearch/RoboMaster) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](http://fuxiao0719.github.io/projects/robomaster)
+
 
 - **[ICLR'26] Vid2World** — *Vid2World: Crafting Video Diffusion Models to Interactive World Models*  
-   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=pFyzqbUiF9)
+   [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=pFyzqbUiF9) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/thuml/Vid2World) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://knightnemo.github.io/vid2world/)
 
 - **[ICLR'26] Genie Envisioner** — *Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation*  
    [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=fHLtSxDFKC)     [![arXiv](https://img.shields.io/badge/arXiv-2508.05635-b31b1b.svg)](https://arxiv.org/abs/2508.05635)  [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AgibotTech/Genie-Envisioner)   [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://genie-envisioner.github.io/)
@@ -221,20 +222,23 @@ A curated list of papers, code, and resources on world models for robotic policy
    [![Paper](https://img.shields.io/badge/Paper-OpenReview-4B5D67.svg)](https://openreview.net/forum?id=748bHL2BAv)     [![arXiv](https://img.shields.io/badge/arXiv-2510.10125-b31b1b.svg)](https://arxiv.org/abs/2510.10125)     [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Robert-gyj/Ctrl-World)   [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://ctrl-world.github.io/)
 
 - **[AAAI'26] Mask2IV** — *Mask2IV: Interaction-Centric Video Generation via Mask Trajectories*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2510.03135-b31b1b.svg)](https://arxiv.org/abs/2510.03135)  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://reagan1311.github.io/mask2iv/)
+   [![arXiv](https://img.shields.io/badge/arXiv-2510.03135-b31b1b.svg)](https://arxiv.org/abs/2510.03135) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/Reagan1311/Mask2IV)  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://reagan1311.github.io/mask2iv/)
 
 - **[arXiv'26.01] RoboVIP** — *RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2601.05241-b31b1b.svg)](https://arxiv.org/abs/2601.05241)
+   [![arXiv](https://img.shields.io/badge/arXiv-2601.05241-b31b1b.svg)](https://arxiv.org/abs/2601.05241) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/RoboVIP/RoboVIP_VDM)   [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://robovip.github.io/RoboVIP/) 
 
 - **[arXiv'25.04] ManipDreamer** — *ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2504.10406-b31b1b.svg)](https://arxiv.org/abs/2504.10406)
+   [![arXiv](https://img.shields.io/badge/arXiv-2504.10406-b31b1b.svg)](https://arxiv.org/abs/2504.10406) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)]()  [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://myendless1.github.io/ManipDreamer/) 
 
 - **[arXiv'25.05] EnerVerse-AC** — *EnerVerse-AC*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2505.09723-b31b1b.svg)](https://arxiv.org/abs/2505.09723)
+   [![arXiv](https://img.shields.io/badge/arXiv-2505.09723-b31b1b.svg)](https://arxiv.org/abs/2505.09723) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AgibotTech/EnerVerse-AC) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://tesseractworld.github.io/) 
+  
 
 - **[arXiv'25.11] GigaWorld-0** — *GigaWorld-0*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2511.19861-b31b1b.svg)](https://arxiv.org/abs/2511.19861)
+   [![arXiv](https://img.shields.io/badge/arXiv-2511.19861-b31b1b.svg)](https://arxiv.org/abs/2511.19861) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)](https://github.com/AgibotTech/EnerVerse-AC) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://giga-world-0.github.io/) 
+  
+
 
 - **[arXiv'25.04] TesserAct** — *TesserAct*  
-   [![arXiv](https://img.shields.io/badge/arXiv-2504.20995-b31b1b.svg)](https://arxiv.org/abs/2504.20995) [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://tesseractworld.github.io/)
+   [![arXiv](https://img.shields.io/badge/arXiv-2504.20995-b31b1b.svg)](https://arxiv.org/abs/2504.20995) [![GitHub](https://img.shields.io/badge/GitHub-code-181717.svg?logo=github)]() [![Website](https://img.shields.io/badge/Website-page-0A66C2.svg)](https://tesseractworld.github.io/) 
   
